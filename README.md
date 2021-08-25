@@ -11,8 +11,10 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 ## Contents
 
 - [Analytics](#analytics)
-- [Create NFT](#create)
+- [Create](#create)
   - [Data Store](#data-store)
+- [Gallery](#gallery)
+- [Gaming](#gaming)
 - [Marketplaces](#markets)
   - [Major](#major)
   - [Minor](#minor)
@@ -21,7 +23,7 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 - [Crypto Slam](https://cryptoslam.io/) - Marketplace sales and statistics for hundred's of NFT collections and fan tokens
 - 
 
-## Create NFT
+## Create
 
 _Resources for artists and developers wanting to create NFTs on various blockchains_
 
@@ -32,6 +34,14 @@ _Data flow / data management / data stores / components state / data flow_
 - [manifold-xyz](https://www.manifold.xyz/) - Creates blockchain products for NFT communities, currently partnering with the top 1% of cryptomedia content creators.
 - [Pixel Chain](https://pixelchain.art/) - Pixel Art That Lives Forever.
 
+## Gallery
+
+- [Cyber](https://oncyber.io/) - 3D experiences to show your NFTs
+
+
+## Gaming - Play to Earn
+
+- [Axie Infinity](https://axieinfinity.com/) - Axie is a new type of game, partially owned and operated by its players.
 
 ## Marketplaces
 
