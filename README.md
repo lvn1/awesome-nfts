@@ -21,7 +21,7 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 
 ## Analytics
 - [Crypto Slam](https://cryptoslam.io/) - Marketplace sales and statistics for hundred's of NFT collections and fan tokens
-- 
+- [Crypto Art Pulse](https://cryptoartpulse.com/) - Live Sales, Top Sales, First Sales of NFT marketplaces. 
 
 ## Create
 
@@ -31,7 +31,7 @@ _Resources for artists and developers wanting to create NFTs on various blockcha
 
 _Data flow / data management / data stores / components state / data flow_
 
-- [manifold-xyz](https://www.manifold.xyz/) - Creates blockchain products for NFT communities, currently partnering with the top 1% of cryptomedia content creators.
+- [Manifold](https://www.manifold.xyz/) - Creates blockchain products for NFT communities, currently partnering with the top 1% of cryptomedia content creators.
 - [Pixel Chain](https://pixelchain.art/) - Pixel Art That Lives Forever.
 
 ## Gallery
@@ -42,6 +42,9 @@ _Data flow / data management / data stores / components state / data flow_
 ## Gaming - Play to Earn
 
 - [Axie Infinity](https://axieinfinity.com/) - Axie is a new type of game, partially owned and operated by its players.
+- [Lost Relics](https://lostrelics.io) - Free to play Action-Adventure RPG.
+- [Splinterlands](https://splinterlands.com) - Digital, collectible card game built on blockchain technology.
+- [Zed Run](https://zed.run) - The future of digital racehorse ownership.
 
 ## Marketplaces
 
