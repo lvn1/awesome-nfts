@@ -30,7 +30,7 @@ _Resources for artists and developers wanting to create NFTs on various blockcha
 _Data flow / data management / data stores / components state / data flow_
 
 - [manifold-xyz](https://www.manifold.xyz/) - Creates blockchain products for NFT communities, currently partnering with the top 1% of cryptomedia content creators.
-- [baobab-react](https://github.com/Yomguithereal/baobab-react) - React integration for Baobab.
+- [Pixel Chain](https://pixelchain.art/) - Pixel Art That Lives Forever.
 
 
 ## Marketplaces
