@@ -13,6 +13,7 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 - [Analytics](#analytics)
 - [Create](#create)
   - [Data Store](#data-store)
+- [Develop](#develop)
 - [Gallery](#gallery)
 - [Gaming](#gaming)
 - [Marketplaces](#markets)
@@ -33,6 +34,11 @@ _Data flow / data management / data stores / components state / data flow_
 
 - [Manifold](https://www.manifold.xyz/) - Creates blockchain products for NFT communities, currently partnering with the top 1% of cryptomedia content creators.
 - [Pixel Chain](https://pixelchain.art/) - Pixel Art That Lives Forever.
+
+
+## Develop
+
+- [Wyvern Protocol](https://wyvernprotocol.com/) - Powers the peer-to-peer exchange of digital assets. 
 
 ## Gallery
 
