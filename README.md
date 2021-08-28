@@ -26,7 +26,8 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 - [Crypto Slam](https://cryptoslam.io/) - Marketplace sales and statistics for hundred's of NFT collections and fan tokens
 - [Crypto Art Pulse](https://cryptoartpulse.com/) - Live Sales, Top Sales, First Sales of NFT marketplaces.
 - [Hash Masks Finder](https://hashmaskfinder.com) - 
-- [Rarity Guide](https://rarity.guide/)-
+- [Rarity Guide](https://rarity.guide/) -
+- [Dune Ownership Dashboard](https://dune.xyz/danner_eth/NFT-Comparison) -
 
 ## Collectibles
 - [Curio Cards](https://curio.cards/) - Curio was the first Art Non-Fungible Token (NFT) on mainnet Ethereum. With it you could own a rare and collectible piece of digital artwork. [Full card list](https://fafrd.github.io/curio-gallery/)
