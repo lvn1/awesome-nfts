@@ -27,22 +27,26 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 - [Crypto Art Pulse](https://cryptoartpulse.com/) - Live Sales, Top Sales, First Sales of NFT marketplaces.
 - [Hash Masks Finder](https://hashmaskfinder.com) - 
 
+## Collectibles
+- [Curio Cards](https://curio.cards/) - Curio was the first Art Non-Fungible Token (NFT) on mainnet Ethereum. With it you could own a rare and collectible piece of digital artwork. [Full card list](https://fafrd.github.io/curio-gallery/)
+
 ## Create
 
 _Resources for artists and developers wanting to create NFTs on various blockchains_
-
-### Ethereum
-
-_Data flow / data management / data stores / components state / data flow_
 
 - [Manifold](https://www.manifold.xyz/) - Creates blockchain products for NFT communities, currently partnering with the top 1% of cryptomedia content creators.
 - [Pixel Chain](https://pixelchain.art/) - Pixel Art That Lives Forever.
 - [Poap Art](https://poap.art/) -
 
+## DAOs
+- [Blackpool](https://blackpool.finance) - BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
 
 ## Develop
 
 - [Wyvern Protocol](https://wyvernprotocol.com/) - Powers the peer-to-peer exchange of digital assets. 
+
+## Fractional
+- [Fractional Art](fractional.art)
 
 ## Gallery
 
