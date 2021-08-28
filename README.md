@@ -22,7 +22,8 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 
 ## Analytics
 - [Crypto Slam](https://cryptoslam.io/) - Marketplace sales and statistics for hundred's of NFT collections and fan tokens
-- [Crypto Art Pulse](https://cryptoartpulse.com/) - Live Sales, Top Sales, First Sales of NFT marketplaces. 
+- [Crypto Art Pulse](https://cryptoartpulse.com/) - Live Sales, Top Sales, First Sales of NFT marketplaces.
+- [Hash Masks Finder](https://hashmaskfinder.com) - 
 
 ## Create
 
