@@ -73,4 +73,4 @@ _All NFT marketplaces with decent trade volume_
 
 ### Minor
 
-- [Elementz Table](https://github.com/elementz-ui/elementz) - [demo/docs](https://elementz.style/#!/Table) - A modern and easy-to-use table packed with all neccessary features, responsive, infinite scrolling & more. 
+- [Raretoshi](https://raretoshi.com/) 
