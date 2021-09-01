@@ -46,7 +46,11 @@ _Resources for artists and developers wanting to create NFTs on various blockcha
 
 ## Develop
 
-- [Wyvern Protocol](https://wyvernprotocol.com/) - Powers the peer-to-peer exchange of digital assets. 
+- [Wyvern Protocol](https://wyvernprotocol.com/) - Powers the peer-to-peer exchange of digital assets.
+
+## Education
+
+- [NFT School](https://nftschool.dev/) - A collective of web developers and technology enthusiasts here to figure out what's going on with NFTs.
 
 ## Fractional
 - [Fractional Art](fractional.art)
