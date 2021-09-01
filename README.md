@@ -28,6 +28,7 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 - [Hash Masks Finder](https://hashmaskfinder.com) - 
 - [Rarity Guide](https://rarity.guide/) -
 - [Dune Ownership Dashboard](https://dune.xyz/danner_eth/NFT-Comparison) -
+- [Sol Analysis](https://solanalysis.com/)-
 
 ## Collectibles
 - [Curio Cards](https://curio.cards/) - Curio was the first Art Non-Fungible Token (NFT) on mainnet Ethereum. With it you could own a rare and collectible piece of digital artwork. [Full card list](https://fafrd.github.io/curio-gallery/)
