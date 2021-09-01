@@ -54,6 +54,7 @@ _Resources for artists and developers wanting to create NFTs on various blockcha
 ## Gallery
 
 - [Cyber](https://oncyber.io/) - 3D experiences to show your NFTs
+- [JPG Space](https://jpg.space/) - On-chain NFT curation protocol, built on Ethereum.
 
 
 ## Gaming - Play to Earn
