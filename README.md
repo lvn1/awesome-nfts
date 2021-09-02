@@ -44,9 +44,10 @@ _Resources for artists and developers wanting to create NFTs on various blockcha
 ## DAOs
 - [Blackpool](https://blackpool.finance) - BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
 
-## Develop
+## Dev
 
 - [Wyvern Protocol](https://wyvernprotocol.com/) - Powers the peer-to-peer exchange of digital assets.
+- [Opensea API](https://docs.opensea.io/reference/retrieving-collections) - Opensea API Docs
 
 ## Education
 
