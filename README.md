@@ -43,6 +43,7 @@ _Resources for artists and developers wanting to create NFTs on various blockcha
 - [Manifold](https://www.manifold.xyz/) - Creates blockchain products for NFT communities, currently partnering with the top 1% of cryptomedia content creators.
 - [Pixel Chain](https://pixelchain.art/) - Pixel Art That Lives Forever.
 - [Poap Art](https://poap.art/) -
+- [Photo Mash](https://photomosh.com/) - 
 
 ## DAOs
 - [Blackpool](https://blackpool.finance) - BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
