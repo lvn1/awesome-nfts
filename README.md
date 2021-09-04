@@ -1,7 +1,7 @@
 # CURRENTLY A WORK IN PROGRESS
 
 
-# Awesome NFTs 🚀 
+# NFT Encyclopedia 🚀 
 
 This is a list of AWESOME NFTs. Nope, it's NOT a comprehensive list of
 every NFT under the sun. So, what does "awesome" mean? Well:
@@ -29,6 +29,7 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 - [Rarity Guide](https://rarity.guide/) -
 - [Dune Ownership Dashboard](https://dune.xyz/danner_eth/NFT-Comparison) -
 - [Sol Analysis](https://solanalysis.com/)-
+- [Icy Tools](https://icy.tools/) -
 
 ## Artists
 - [RTFKT](https://rtfkt.com) - 
