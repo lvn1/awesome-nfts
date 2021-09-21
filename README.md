@@ -30,6 +30,7 @@ every NFT under the sun. So, what does "awesome" mean? Well:
 - [Dune Ownership Dashboard](https://dune.xyz/danner_eth/NFT-Comparison) -
 - [Sol Analysis](https://solanalysis.com/)-
 - [Icy Tools](https://icy.tools/) -
+- [NFT Go](https://nftgo.io) -
 
 ## Artists
 - [RTFKT](https://rtfkt.com) - 
